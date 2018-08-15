@@ -1,0 +1,7 @@
+/env.properties
+/prod.properties
+/uat.properties
+/testng.xml
+/portfoliosuite.xml
+/stocksuite.xml
+/com/
